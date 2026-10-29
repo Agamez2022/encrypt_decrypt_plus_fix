@@ -1,0 +1,44 @@
+## 2.1.0
+
+* Add Swift Package Manager support for iOS and macOS.
+* Share native sources and privacy manifests between SwiftPM and CocoaPods.
+* Preserve the Dart API, encryption formats and other platform implementations.
+
+## 2.0.0
+
+* Upgrade dependencies.
+
+## 1.7.0
+
+* AES-256-CBC for encryption and decryption.
+
+## 1.6.0
+
+* AES-256-CBC for encryption and decryption.
+
+## 1.5.0
+
+* AES-256-CBC for encryption and decryption.
+* Change Cipher -> XOR
+
+## 1.4.0
+
+* AES-256-CBC for encryption and decryption.
+* Change Cipher -> XOR
+
+## 1.3.0
+
+* AES-256-CBC for encryption and decryption.
+
+## 1.2.0
+
+* Add namespace for android
+* Upgrade dependencies
+
+## 1.1.0
+
+* Decode JWT token and expiration date time.
+
+## 1.0.0
+
+* This package helps to encryption and decryption with or without secret key.
